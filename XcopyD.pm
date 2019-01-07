@@ -1,4 +1,4 @@
-package VBmodules::XcopyD;  # downloaded this file from meta:cpan  (metacpan.org) Modified by VLB to add /D feature
+package VBmodules::XcopyD;  # downloaded this module as FILE::Xcopy.pm from meta:cpan  (metacpan.org) Modified by VLB to add /D feature
 my $module = "XcopyD.pm";
 
 use 5.005_64;
